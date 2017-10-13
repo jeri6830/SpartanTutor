@@ -1,0 +1,80 @@
+#subject:BIO 668
+>tutor:Zofia
+>client:N/A
+>comm:Zofia@email.com
+>date:3-20-17
+>start:783
+>end:2067
+>cash:0
+#subject:ENGR 638
+>tutor:Alden
+>client:N/A
+>comm:Alden@email.com
+>date:7-20-17
+>start:174
+>end:1703
+>cash:0
+#subject:HIST 532
+>tutor:Karly
+>client:N/A
+>comm:Karly@email.com
+>date:1-9-17
+>start:933
+>end:1990
+>cash:0
+#subject:KIN 554
+>tutor:Avelina
+>client:N/A
+>comm:Avelina@email.com
+>date:1-27-17
+>start:159
+>end:1557
+>cash:0
+#subject:CHEM 581
+>tutor:Keva
+>client:N/A
+>comm:Keva@email.com
+>date:8-15-17
+>start:615
+>end:2224
+>cash:0
+#subject:ENGL 147
+>tutor:Marcel
+>client:N/A
+>comm:Marcel@email.com
+>date:9-21-17
+>start:188
+>end:2001
+>cash:0
+#subject:KIN 668
+>tutor:Alden
+>client:N/A
+>comm:Alden@email.com
+>date:9-22-17
+>start:86
+>end:2002
+>cash:0
+#subject:SCI 522
+>tutor:Margorie
+>client:N/A
+>comm:Margorie@email.com
+>date:2-27-17
+>start:950
+>end:1599
+>cash:0
+#subject:BIO 826
+>tutor:Dori
+>client:N/A
+>comm:Dori@email.com
+>date:4-22-17
+>start:1075
+>end:1601
+>cash:0
+#subject:CMPE 472
+>tutor:Keva
+>client:N/A
+>comm:Keva@email.com
+>date:5-8-17
+>start:739
+>end:1473
+>cash:0
