@@ -16,7 +16,8 @@ def search(query,subject):
                 returnme.append(counter)
         data=dataFile.readline()
     return returnme
-print search("tutor","Alden")
+
+
 def getappointment(mynumber):
     returnme=[]
     if(linecache.getline("data.txt",mynumber))[0:1]=="#":
@@ -24,4 +25,3 @@ def getappointment(mynumber):
             data=linecache.getline("data.txt",mynumber+x).split(":")[1][:-1]
             returnme.append(data)
     return returnme
-print getappointment(9)
