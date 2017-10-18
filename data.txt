@@ -1,80 +1,1600 @@
-#subject:BIO 668
->tutor:Zofia
+#subject:CMPE 190
+>tutor:Ta
 >client:N/A
->comm:Zofia@email.com
->date:3-20-17
->start:783
->end:2067
+>comm:Ta@email.com
+>date:10-22-17
+>start:764
+>end:2019
 >cash:0
-#subject:ENGR 638
->tutor:Alden
+#subject:ENGR 753
+>tutor:Dorine
 >client:N/A
->comm:Alden@email.com
->date:7-20-17
->start:174
->end:1703
+>comm:Dorine@email.com
+>date:12-26-17
+>start:247
+>end:1400
 >cash:0
-#subject:HIST 532
+#subject:KIN 74
 >tutor:Karly
 >client:N/A
 >comm:Karly@email.com
->date:1-9-17
->start:933
->end:1990
+>date:3-19-17
+>start:121
+>end:1977
 >cash:0
-#subject:KIN 554
->tutor:Avelina
+#subject:CMPE 889
+>tutor:Abe
 >client:N/A
->comm:Avelina@email.com
->date:1-27-17
->start:159
->end:1557
+>comm:Abe@email.com
+>date:2-17-17
+>start:61
+>end:2004
 >cash:0
-#subject:CHEM 581
->tutor:Keva
+#subject:CS 888
+>tutor:Ngoc
 >client:N/A
->comm:Keva@email.com
->date:8-15-17
->start:615
->end:2224
+>comm:Ngoc@email.com
+>date:6-25-17
+>start:232
+>end:1231
 >cash:0
-#subject:ENGL 147
->tutor:Marcel
+#subject:CMPE 65
+>tutor:Walton
 >client:N/A
->comm:Marcel@email.com
->date:9-21-17
->start:188
->end:2001
+>comm:Walton@email.com
+>date:3-10-17
+>start:275
+>end:1618
 >cash:0
-#subject:KIN 668
->tutor:Alden
+#subject:CS 115
+>tutor:Beata
 >client:N/A
->comm:Alden@email.com
->date:9-22-17
->start:86
->end:2002
+>comm:Beata@email.com
+>date:7-21-17
+>start:153
+>end:1919
 >cash:0
-#subject:SCI 522
->tutor:Margorie
+#subject:KIN 91
+>tutor:Kenisha
 >client:N/A
->comm:Margorie@email.com
->date:2-27-17
->start:950
->end:1599
+>comm:Kenisha@email.com
+>date:5-26-17
+>start:742
+>end:1547
 >cash:0
-#subject:BIO 826
+#subject:CS 243
+>tutor:Terrilyn
+>client:N/A
+>comm:Terrilyn@email.com
+>date:2-20-17
+>start:327
+>end:1855
+>cash:0
+#subject:CS 143
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:3-8-17
+>start:677
+>end:2057
+>cash:0
+#subject:CHEM 372
+>tutor:Deloise
+>client:N/A
+>comm:Deloise@email.com
+>date:6-24-17
+>start:692
+>end:2089
+>cash:0
+#subject:HIST 886
+>tutor:Joyce
+>client:N/A
+>comm:Joyce@email.com
+>date:5-10-17
+>start:706
+>end:1805
+>cash:0
+#subject:SCI 565
+>tutor:Carlton
+>client:N/A
+>comm:Carlton@email.com
+>date:9-28-17
+>start:45
+>end:1597
+>cash:0
+#subject:SCI 68
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:5-2-17
+>start:203
+>end:2119
+>cash:0
+#subject:ENGL 258
+>tutor:Roscoe
+>client:N/A
+>comm:Roscoe@email.com
+>date:6-17-17
+>start:76
+>end:1969
+>cash:0
+#subject:MATH 121
+>tutor:Lisha
+>client:N/A
+>comm:Lisha@email.com
+>date:10-5-17
+>start:259
+>end:2230
+>cash:0
+#subject:SCI 250
+>tutor:Lettie
+>client:N/A
+>comm:Lettie@email.com
+>date:12-14-17
+>start:1001
+>end:1832
+>cash:0
+#subject:BIO 879
+>tutor:Rolanda
+>client:N/A
+>comm:Rolanda@email.com
+>date:8-17-17
+>start:744
+>end:2016
+>cash:0
+#subject:CS 573
+>tutor:Sindy
+>client:N/A
+>comm:Sindy@email.com
+>date:6-5-17
+>start:842
+>end:1299
+>cash:0
+#subject:ENGR 222
+>tutor:Natosha
+>client:N/A
+>comm:Natosha@email.com
+>date:4-23-17
+>start:801
+>end:1320
+>cash:0
+#subject:ENGL 197
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:8-20-17
+>start:1141
+>end:1651
+>cash:0
+#subject:BIO 612
+>tutor:Victor
+>client:N/A
+>comm:Victor@email.com
+>date:8-16-17
+>start:419
+>end:2094
+>cash:0
+#subject:ENGR 995
+>tutor:Margarito
+>client:N/A
+>comm:Margarito@email.com
+>date:5-28-17
+>start:689
+>end:1713
+>cash:0
+#subject:ENGL 953
+>tutor:Alisa
+>client:N/A
+>comm:Alisa@email.com
+>date:11-17-17
+>start:1134
+>end:1880
+>cash:0
+#subject:BIO 901
+>tutor:Lisha
+>client:N/A
+>comm:Lisha@email.com
+>date:1-7-17
+>start:1167
+>end:1418
+>cash:0
+#subject:ENGL 999
+>tutor:Sindy
+>client:N/A
+>comm:Sindy@email.com
+>date:2-10-17
+>start:1070
+>end:2246
+>cash:0
+#subject:ENGL 745
 >tutor:Dori
 >client:N/A
 >comm:Dori@email.com
->date:4-22-17
->start:1075
->end:1601
+>date:5-26-17
+>start:982
+>end:1343
 >cash:0
-#subject:CMPE 472
+#subject:CS 505
+>tutor:Elena
+>client:N/A
+>comm:Elena@email.com
+>date:11-2-17
+>start:504
+>end:1750
+>cash:0
+#subject:CS 498
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:8-17-17
+>start:915
+>end:1206
+>cash:0
+#subject:ENGL 737
+>tutor:Dorine
+>client:N/A
+>comm:Dorine@email.com
+>date:11-3-17
+>start:1142
+>end:1870
+>cash:0
+#subject:ENGL 785
+>tutor:Marquerite
+>client:N/A
+>comm:Marquerite@email.com
+>date:5-8-17
+>start:311
+>end:2252
+>cash:0
+#subject:CS 497
+>tutor:Ta
+>client:N/A
+>comm:Ta@email.com
+>date:5-1-17
+>start:334
+>end:2390
+>cash:0
+#subject:CHEM 676
+>tutor:Corrina
+>client:N/A
+>comm:Corrina@email.com
+>date:7-8-17
+>start:80
+>end:1846
+>cash:0
+#subject:MATH 514
+>tutor:Ngoc
+>client:N/A
+>comm:Ngoc@email.com
+>date:7-26-17
+>start:571
+>end:1428
+>cash:0
+#subject:MATH 396
+>tutor:Zach
+>client:N/A
+>comm:Zach@email.com
+>date:9-26-17
+>start:1006
+>end:1501
+>cash:0
+#subject:CMPE 307
+>tutor:Carolin
+>client:N/A
+>comm:Carolin@email.com
+>date:12-24-17
+>start:1085
+>end:1883
+>cash:0
+#subject:SCI 625
+>tutor:Ngoc
+>client:N/A
+>comm:Ngoc@email.com
+>date:7-11-17
+>start:862
+>end:1802
+>cash:0
+#subject:KIN 813
+>tutor:Gilma
+>client:N/A
+>comm:Gilma@email.com
+>date:1-8-17
+>start:622
+>end:1390
+>cash:0
+#subject:HIST 349
+>tutor:Nila
+>client:N/A
+>comm:Nila@email.com
+>date:2-27-17
+>start:761
+>end:2048
+>cash:0
+#subject:CHEM 54
+>tutor:Kenisha
+>client:N/A
+>comm:Kenisha@email.com
+>date:2-10-17
+>start:268
+>end:1995
+>cash:0
+#subject:KIN 544
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:1-22-17
+>start:328
+>end:1845
+>cash:0
+#subject:KIN 797
+>tutor:Marcel
+>client:N/A
+>comm:Marcel@email.com
+>date:12-9-17
+>start:723
+>end:2386
+>cash:0
+#subject:SCI 10
+>tutor:Dori
+>client:N/A
+>comm:Dori@email.com
+>date:9-19-17
+>start:896
+>end:2373
+>cash:0
+#subject:BIO 340
+>tutor:Dorine
+>client:N/A
+>comm:Dorine@email.com
+>date:9-28-17
+>start:1071
+>end:2227
+>cash:0
+#subject:CS 13
+>tutor:Marcel
+>client:N/A
+>comm:Marcel@email.com
+>date:5-15-17
+>start:582
+>end:1558
+>cash:0
+#subject:CMPE 60
 >tutor:Keva
 >client:N/A
 >comm:Keva@email.com
->date:5-8-17
->start:739
->end:1473
+>date:12-27-17
+>start:441
+>end:1202
+>cash:0
+#subject:CMPE 556
+>tutor:Karly
+>client:N/A
+>comm:Karly@email.com
+>date:10-18-17
+>start:84
+>end:1255
+>cash:0
+#subject:CHEM 464
+>tutor:Elouise
+>client:N/A
+>comm:Elouise@email.com
+>date:1-8-17
+>start:672
+>end:1520
+>cash:0
+#subject:CS 215
+>tutor:Lamont
+>client:N/A
+>comm:Lamont@email.com
+>date:8-16-17
+>start:1132
+>end:2141
+>cash:0
+#subject:KIN 232
+>tutor:Dori
+>client:N/A
+>comm:Dori@email.com
+>date:12-2-17
+>start:992
+>end:1433
+>cash:0
+#subject:SCI 958
+>tutor:Lorraine
+>client:N/A
+>comm:Lorraine@email.com
+>date:12-25-17
+>start:839
+>end:1508
+>cash:0
+#subject:KIN 795
+>tutor:Margarito
+>client:N/A
+>comm:Margarito@email.com
+>date:3-22-17
+>start:956
+>end:1250
+>cash:0
+#subject:SCI 226
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:4-9-17
+>start:785
+>end:1354
+>cash:0
+#subject:CS 414
+>tutor:Elouise
+>client:N/A
+>comm:Elouise@email.com
+>date:10-18-17
+>start:353
+>end:1804
+>cash:0
+#subject:CMPE 779
+>tutor:Nila
+>client:N/A
+>comm:Nila@email.com
+>date:10-9-17
+>start:512
+>end:1602
+>cash:0
+#subject:CHEM 866
+>tutor:Terrilyn
+>client:N/A
+>comm:Terrilyn@email.com
+>date:9-16-17
+>start:607
+>end:1831
+>cash:0
+#subject:CHEM 593
+>tutor:Carolin
+>client:N/A
+>comm:Carolin@email.com
+>date:5-22-17
+>start:1099
+>end:2222
+>cash:0
+#subject:CHEM 752
+>tutor:Elena
+>client:N/A
+>comm:Elena@email.com
+>date:10-10-17
+>start:576
+>end:2254
+>cash:0
+#subject:BIO 768
+>tutor:Walton
+>client:N/A
+>comm:Walton@email.com
+>date:8-22-17
+>start:198
+>end:2170
+>cash:0
+#subject:KIN 293
+>tutor:Alden
+>client:N/A
+>comm:Alden@email.com
+>date:8-8-17
+>start:1184
+>end:2371
+>cash:0
+#subject:ENGR 291
+>tutor:Kenisha
+>client:N/A
+>comm:Kenisha@email.com
+>date:3-9-17
+>start:1074
+>end:2147
+>cash:0
+#subject:ENGR 529
+>tutor:Sindy
+>client:N/A
+>comm:Sindy@email.com
+>date:4-22-17
+>start:1131
+>end:1449
+>cash:0
+#subject:HIST 616
+>tutor:Elouise
+>client:N/A
+>comm:Elouise@email.com
+>date:9-9-17
+>start:943
+>end:1784
+>cash:0
+#subject:CMPE 536
+>tutor:Carolin
+>client:N/A
+>comm:Carolin@email.com
+>date:11-23-17
+>start:174
+>end:1448
+>cash:0
+#subject:SCI 720
+>tutor:Agustina
+>client:N/A
+>comm:Agustina@email.com
+>date:10-8-17
+>start:812
+>end:1426
+>cash:0
+#subject:CHEM 144
+>tutor:Dorine
+>client:N/A
+>comm:Dorine@email.com
+>date:4-2-17
+>start:1194
+>end:1693
+>cash:0
+#subject:MATH 400
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:1-20-17
+>start:237
+>end:2288
+>cash:0
+#subject:CMPE 475
+>tutor:Margarito
+>client:N/A
+>comm:Margarito@email.com
+>date:3-27-17
+>start:134
+>end:1543
+>cash:0
+#subject:ENGL 696
+>tutor:Angela
+>client:N/A
+>comm:Angela@email.com
+>date:5-5-17
+>start:1190
+>end:2204
+>cash:0
+#subject:HIST 218
+>tutor:Rochelle
+>client:N/A
+>comm:Rochelle@email.com
+>date:12-24-17
+>start:1011
+>end:1577
+>cash:0
+#subject:CS 165
+>tutor:Morris
+>client:N/A
+>comm:Morris@email.com
+>date:2-6-17
+>start:763
+>end:2038
+>cash:0
+#subject:ENGL 26
+>tutor:Dorine
+>client:N/A
+>comm:Dorine@email.com
+>date:3-28-17
+>start:826
+>end:1742
+>cash:0
+#subject:CHEM 974
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:3-18-17
+>start:149
+>end:2375
+>cash:0
+#subject:HIST 861
+>tutor:Sindy
+>client:N/A
+>comm:Sindy@email.com
+>date:11-7-17
+>start:529
+>end:1336
+>cash:0
+#subject:ENGL 846
+>tutor:Roscoe
+>client:N/A
+>comm:Roscoe@email.com
+>date:3-6-17
+>start:682
+>end:2194
+>cash:0
+#subject:MATH 141
+>tutor:Raven
+>client:N/A
+>comm:Raven@email.com
+>date:2-5-17
+>start:273
+>end:1343
+>cash:0
+#subject:MATH 65
+>tutor:Karly
+>client:N/A
+>comm:Karly@email.com
+>date:2-16-17
+>start:797
+>end:1259
+>cash:0
+#subject:BIO 621
+>tutor:Abe
+>client:N/A
+>comm:Abe@email.com
+>date:9-20-17
+>start:786
+>end:2283
+>cash:0
+#subject:SCI 469
+>tutor:Carlton
+>client:N/A
+>comm:Carlton@email.com
+>date:11-18-17
+>start:851
+>end:1664
+>cash:0
+#subject:ENGL 165
+>tutor:Zofia
+>client:N/A
+>comm:Zofia@email.com
+>date:8-22-17
+>start:987
+>end:1988
+>cash:0
+#subject:KIN 196
+>tutor:Corrina
+>client:N/A
+>comm:Corrina@email.com
+>date:1-11-17
+>start:274
+>end:1642
+>cash:0
+#subject:CHEM 314
+>tutor:Zula
+>client:N/A
+>comm:Zula@email.com
+>date:1-9-17
+>start:101
+>end:1794
+>cash:0
+#subject:ENGL 966
+>tutor:Terrilyn
+>client:N/A
+>comm:Terrilyn@email.com
+>date:7-10-17
+>start:587
+>end:2021
+>cash:0
+#subject:ENGL 420
+>tutor:Dori
+>client:N/A
+>comm:Dori@email.com
+>date:1-13-17
+>start:216
+>end:2308
+>cash:0
+#subject:ENGR 29
+>tutor:Dori
+>client:N/A
+>comm:Dori@email.com
+>date:12-17-17
+>start:720
+>end:1358
+>cash:0
+#subject:ENGR 401
+>tutor:Angela
+>client:N/A
+>comm:Angela@email.com
+>date:11-27-17
+>start:38
+>end:1513
+>cash:0
+#subject:CHEM 645
+>tutor:Angela
+>client:N/A
+>comm:Angela@email.com
+>date:2-11-17
+>start:865
+>end:2249
+>cash:0
+#subject:CMPE 100
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:12-19-17
+>start:227
+>end:1706
+>cash:0
+#subject:SCI 638
+>tutor:Rubin
+>client:N/A
+>comm:Rubin@email.com
+>date:3-12-17
+>start:1093
+>end:2372
+>cash:0
+#subject:CMPE 918
+>tutor:Rubin
+>client:N/A
+>comm:Rubin@email.com
+>date:5-21-17
+>start:1072
+>end:1733
+>cash:0
+#subject:CHEM 782
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:4-11-17
+>start:939
+>end:1321
+>cash:0
+#subject:BIO 650
+>tutor:Leonila
+>client:N/A
+>comm:Leonila@email.com
+>date:6-2-17
+>start:357
+>end:1895
+>cash:0
+#subject:CS 900
+>tutor:Joyce
+>client:N/A
+>comm:Joyce@email.com
+>date:2-1-17
+>start:629
+>end:1353
+>cash:0
+#subject:CMPE 135
+>tutor:Karly
+>client:N/A
+>comm:Karly@email.com
+>date:2-15-17
+>start:985
+>end:1583
+>cash:0
+#subject:CHEM 118
+>tutor:Marcel
+>client:N/A
+>comm:Marcel@email.com
+>date:5-21-17
+>start:645
+>end:1262
+>cash:0
+#subject:HIST 484
+>tutor:Karly
+>client:N/A
+>comm:Karly@email.com
+>date:8-25-17
+>start:1
+>end:1469
+>cash:0
+#subject:CMPE 475
+>tutor:Zofia
+>client:N/A
+>comm:Zofia@email.com
+>date:4-15-17
+>start:386
+>end:2166
+>cash:0
+#subject:CHEM 123
+>tutor:Vodkala
+>client:N/A
+>comm:Vodkala@email.com
+>date:12-4-17
+>start:326
+>end:1746
+>cash:0
+#subject:ENGR 401
+>tutor:Margorie
+>client:N/A
+>comm:Margorie@email.com
+>date:1-27-17
+>start:741
+>end:2380
+>cash:0
+#subject:ENGL 337
+>tutor:Lamont
+>client:N/A
+>comm:Lamont@email.com
+>date:11-26-17
+>start:539
+>end:1618
+>cash:0
+#subject:SCI 871
+>tutor:Ta
+>client:N/A
+>comm:Ta@email.com
+>date:5-25-17
+>start:249
+>end:1374
+>cash:0
+#subject:CHEM 665
+>tutor:Margorie
+>client:N/A
+>comm:Margorie@email.com
+>date:4-7-17
+>start:799
+>end:1771
+>cash:0
+#subject:CMPE 229
+>tutor:Leonila
+>client:N/A
+>comm:Leonila@email.com
+>date:9-8-17
+>start:794
+>end:1238
+>cash:0
+#subject:CS 650
+>tutor:Abe
+>client:N/A
+>comm:Abe@email.com
+>date:1-11-17
+>start:167
+>end:1981
+>cash:0
+#subject:CS 41
+>tutor:Elouise
+>client:N/A
+>comm:Elouise@email.com
+>date:12-12-17
+>start:590
+>end:1757
+>cash:0
+#subject:ENGR 607
+>tutor:Rolanda
+>client:N/A
+>comm:Rolanda@email.com
+>date:4-19-17
+>start:560
+>end:1310
+>cash:0
+#subject:CS 982
+>tutor:Rochelle
+>client:N/A
+>comm:Rochelle@email.com
+>date:9-28-17
+>start:143
+>end:1909
+>cash:0
+#subject:MATH 548
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:12-13-17
+>start:272
+>end:2125
+>cash:0
+#subject:BIO 809
+>tutor:Nila
+>client:N/A
+>comm:Nila@email.com
+>date:8-27-17
+>start:265
+>end:1971
+>cash:0
+#subject:CS 667
+>tutor:Alden
+>client:N/A
+>comm:Alden@email.com
+>date:7-25-17
+>start:399
+>end:1595
+>cash:0
+#subject:ENGL 944
+>tutor:Rubin
+>client:N/A
+>comm:Rubin@email.com
+>date:2-3-17
+>start:661
+>end:1452
+>cash:0
+#subject:SCI 920
+>tutor:Lettie
+>client:N/A
+>comm:Lettie@email.com
+>date:12-9-17
+>start:754
+>end:2219
+>cash:0
+#subject:BIO 339
+>tutor:Elouise
+>client:N/A
+>comm:Elouise@email.com
+>date:10-24-17
+>start:1078
+>end:1558
+>cash:0
+#subject:CS 353
+>tutor:Roscoe
+>client:N/A
+>comm:Roscoe@email.com
+>date:6-8-17
+>start:1074
+>end:1941
+>cash:0
+#subject:MATH 351
+>tutor:Kenisha
+>client:N/A
+>comm:Kenisha@email.com
+>date:6-1-17
+>start:449
+>end:1683
+>cash:0
+#subject:SCI 94
+>tutor:Victor
+>client:N/A
+>comm:Victor@email.com
+>date:5-12-17
+>start:165
+>end:2158
+>cash:0
+#subject:ENGR 614
+>tutor:Alisa
+>client:N/A
+>comm:Alisa@email.com
+>date:11-3-17
+>start:150
+>end:2284
+>cash:0
+#subject:ENGR 810
+>tutor:Leonila
+>client:N/A
+>comm:Leonila@email.com
+>date:10-17-17
+>start:828
+>end:1778
+>cash:0
+#subject:CMPE 179
+>tutor:Angela
+>client:N/A
+>comm:Angela@email.com
+>date:10-15-17
+>start:281
+>end:1752
+>cash:0
+#subject:BIO 683
+>tutor:Beata
+>client:N/A
+>comm:Beata@email.com
+>date:12-16-17
+>start:1060
+>end:2324
+>cash:0
+#subject:ENGL 926
+>tutor:Keva
+>client:N/A
+>comm:Keva@email.com
+>date:5-9-17
+>start:271
+>end:1694
+>cash:0
+#subject:MATH 979
+>tutor:Dorine
+>client:N/A
+>comm:Dorine@email.com
+>date:9-2-17
+>start:256
+>end:2058
+>cash:0
+#subject:CS 656
+>tutor:Rolanda
+>client:N/A
+>comm:Rolanda@email.com
+>date:5-28-17
+>start:989
+>end:1522
+>cash:0
+#subject:ENGR 38
+>tutor:Natosha
+>client:N/A
+>comm:Natosha@email.com
+>date:8-6-17
+>start:600
+>end:1332
+>cash:0
+#subject:KIN 956
+>tutor:Avelina
+>client:N/A
+>comm:Avelina@email.com
+>date:9-2-17
+>start:1127
+>end:1228
+>cash:0
+#subject:SCI 352
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:4-8-17
+>start:624
+>end:1297
+>cash:0
+#subject:MATH 515
+>tutor:Carlton
+>client:N/A
+>comm:Carlton@email.com
+>date:6-16-17
+>start:212
+>end:1575
+>cash:0
+#subject:ENGL 582
+>tutor:Dennise
+>client:N/A
+>comm:Dennise@email.com
+>date:8-19-17
+>start:474
+>end:1202
+>cash:0
+#subject:BIO 770
+>tutor:Zach
+>client:N/A
+>comm:Zach@email.com
+>date:8-18-17
+>start:662
+>end:1928
+>cash:0
+#subject:ENGR 352
+>tutor:Carolin
+>client:N/A
+>comm:Carolin@email.com
+>date:7-28-17
+>start:1143
+>end:1690
+>cash:0
+#subject:KIN 627
+>tutor:Angela
+>client:N/A
+>comm:Angela@email.com
+>date:11-23-17
+>start:261
+>end:1452
+>cash:0
+#subject:SCI 176
+>tutor:Agustina
+>client:N/A
+>comm:Agustina@email.com
+>date:4-18-17
+>start:1179
+>end:1336
+>cash:0
+#subject:MATH 444
+>tutor:Lettie
+>client:N/A
+>comm:Lettie@email.com
+>date:3-26-17
+>start:474
+>end:1540
+>cash:0
+#subject:CHEM 814
+>tutor:Alisa
+>client:N/A
+>comm:Alisa@email.com
+>date:8-19-17
+>start:510
+>end:1969
+>cash:0
+#subject:ENGL 742
+>tutor:Gilma
+>client:N/A
+>comm:Gilma@email.com
+>date:12-25-17
+>start:93
+>end:1919
+>cash:0
+#subject:CHEM 536
+>tutor:Gilma
+>client:N/A
+>comm:Gilma@email.com
+>date:4-8-17
+>start:803
+>end:1868
+>cash:0
+#subject:SCI 495
+>tutor:Walton
+>client:N/A
+>comm:Walton@email.com
+>date:3-22-17
+>start:660
+>end:1882
+>cash:0
+#subject:KIN 324
+>tutor:Terrilyn
+>client:N/A
+>comm:Terrilyn@email.com
+>date:9-26-17
+>start:43
+>end:1979
+>cash:0
+#subject:MATH 806
+>tutor:Marcel
+>client:N/A
+>comm:Marcel@email.com
+>date:11-28-17
+>start:378
+>end:1771
+>cash:0
+#subject:BIO 854
+>tutor:Marquerite
+>client:N/A
+>comm:Marquerite@email.com
+>date:5-1-17
+>start:182
+>end:1702
+>cash:0
+#subject:HIST 605
+>tutor:Terrilyn
+>client:N/A
+>comm:Terrilyn@email.com
+>date:2-25-17
+>start:740
+>end:1472
+>cash:0
+#subject:CHEM 781
+>tutor:Rolanda
+>client:N/A
+>comm:Rolanda@email.com
+>date:10-3-17
+>start:398
+>end:2140
+>cash:0
+#subject:SCI 307
+>tutor:Ta
+>client:N/A
+>comm:Ta@email.com
+>date:1-15-17
+>start:714
+>end:1575
+>cash:0
+#subject:CHEM 589
+>tutor:Lisha
+>client:N/A
+>comm:Lisha@email.com
+>date:6-1-17
+>start:316
+>end:2224
+>cash:0
+#subject:BIO 208
+>tutor:Nila
+>client:N/A
+>comm:Nila@email.com
+>date:3-22-17
+>start:275
+>end:2246
+>cash:0
+#subject:HIST 907
+>tutor:Deloise
+>client:N/A
+>comm:Deloise@email.com
+>date:4-9-17
+>start:700
+>end:2065
+>cash:0
+#subject:CMPE 390
+>tutor:Angela
+>client:N/A
+>comm:Angela@email.com
+>date:3-27-17
+>start:287
+>end:1987
+>cash:0
+#subject:BIO 78
+>tutor:Lisha
+>client:N/A
+>comm:Lisha@email.com
+>date:1-4-17
+>start:219
+>end:2165
+>cash:0
+#subject:MATH 744
+>tutor:Zofia
+>client:N/A
+>comm:Zofia@email.com
+>date:5-10-17
+>start:224
+>end:2257
+>cash:0
+#subject:HIST 341
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:2-2-17
+>start:1062
+>end:1978
+>cash:0
+#subject:HIST 526
+>tutor:Rolanda
+>client:N/A
+>comm:Rolanda@email.com
+>date:6-10-17
+>start:265
+>end:1258
+>cash:0
+#subject:ENGR 439
+>tutor:Corrina
+>client:N/A
+>comm:Corrina@email.com
+>date:8-2-17
+>start:980
+>end:2179
+>cash:0
+#subject:CHEM 28
+>tutor:Socorro
+>client:N/A
+>comm:Socorro@email.com
+>date:5-4-17
+>start:1140
+>end:1733
+>cash:0
+#subject:CHEM 593
+>tutor:Zofia
+>client:N/A
+>comm:Zofia@email.com
+>date:2-20-17
+>start:561
+>end:1998
+>cash:0
+#subject:ENGR 135
+>tutor:Margarito
+>client:N/A
+>comm:Margarito@email.com
+>date:12-7-17
+>start:509
+>end:1306
+>cash:0
+#subject:ENGR 400
+>tutor:Ninfa
+>client:N/A
+>comm:Ninfa@email.com
+>date:12-8-17
+>start:529
+>end:2024
+>cash:0
+#subject:KIN 83
+>tutor:Elouise
+>client:N/A
+>comm:Elouise@email.com
+>date:1-12-17
+>start:596
+>end:1567
+>cash:0
+#subject:HIST 542
+>tutor:Zach
+>client:N/A
+>comm:Zach@email.com
+>date:2-28-17
+>start:1004
+>end:1885
+>cash:0
+#subject:BIO 6
+>tutor:Alisa
+>client:N/A
+>comm:Alisa@email.com
+>date:11-15-17
+>start:825
+>end:2202
+>cash:0
+#subject:MATH 330
+>tutor:Zach
+>client:N/A
+>comm:Zach@email.com
+>date:11-23-17
+>start:1161
+>end:1607
+>cash:0
+#subject:HIST 331
+>tutor:Victor
+>client:N/A
+>comm:Victor@email.com
+>date:7-1-17
+>start:603
+>end:1781
+>cash:0
+#subject:CS 243
+>tutor:Karly
+>client:N/A
+>comm:Karly@email.com
+>date:9-28-17
+>start:934
+>end:2201
+>cash:0
+#subject:MATH 895
+>tutor:Deloise
+>client:N/A
+>comm:Deloise@email.com
+>date:6-22-17
+>start:910
+>end:2331
+>cash:0
+#subject:CMPE 462
+>tutor:Rolanda
+>client:N/A
+>comm:Rolanda@email.com
+>date:4-19-17
+>start:227
+>end:1558
+>cash:0
+#subject:ENGR 584
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:10-26-17
+>start:321
+>end:1577
+>cash:0
+#subject:SCI 754
+>tutor:Nila
+>client:N/A
+>comm:Nila@email.com
+>date:5-3-17
+>start:443
+>end:1309
+>cash:0
+#subject:ENGR 201
+>tutor:Elouise
+>client:N/A
+>comm:Elouise@email.com
+>date:10-12-17
+>start:1169
+>end:1604
+>cash:0
+#subject:SCI 996
+>tutor:Natosha
+>client:N/A
+>comm:Natosha@email.com
+>date:8-1-17
+>start:320
+>end:2288
+>cash:0
+#subject:ENGL 815
+>tutor:Ninfa
+>client:N/A
+>comm:Ninfa@email.com
+>date:12-1-17
+>start:522
+>end:1695
+>cash:0
+#subject:CHEM 114
+>tutor:Ta
+>client:N/A
+>comm:Ta@email.com
+>date:6-16-17
+>start:392
+>end:2250
+>cash:0
+#subject:ENGL 243
+>tutor:Lisha
+>client:N/A
+>comm:Lisha@email.com
+>date:5-17-17
+>start:475
+>end:1593
+>cash:0
+#subject:ENGR 311
+>tutor:Lorraine
+>client:N/A
+>comm:Lorraine@email.com
+>date:1-5-17
+>start:900
+>end:1224
+>cash:0
+#subject:CMPE 406
+>tutor:Raven
+>client:N/A
+>comm:Raven@email.com
+>date:12-12-17
+>start:63
+>end:2197
+>cash:0
+#subject:KIN 286
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:1-28-17
+>start:63
+>end:2099
+>cash:0
+#subject:BIO 286
+>tutor:Carolin
+>client:N/A
+>comm:Carolin@email.com
+>date:4-19-17
+>start:953
+>end:1203
+>cash:0
+#subject:CS 963
+>tutor:Victor
+>client:N/A
+>comm:Victor@email.com
+>date:1-28-17
+>start:113
+>end:1866
+>cash:0
+#subject:CHEM 314
+>tutor:Kenisha
+>client:N/A
+>comm:Kenisha@email.com
+>date:2-23-17
+>start:707
+>end:1486
+>cash:0
+#subject:KIN 769
+>tutor:Dori
+>client:N/A
+>comm:Dori@email.com
+>date:10-3-17
+>start:257
+>end:1322
+>cash:0
+#subject:ENGR 616
+>tutor:Sindy
+>client:N/A
+>comm:Sindy@email.com
+>date:8-16-17
+>start:724
+>end:2119
+>cash:0
+#subject:ENGL 567
+>tutor:Ngoc
+>client:N/A
+>comm:Ngoc@email.com
+>date:11-5-17
+>start:262
+>end:1272
+>cash:0
+#subject:HIST 991
+>tutor:Keva
+>client:N/A
+>comm:Keva@email.com
+>date:1-3-17
+>start:390
+>end:2188
+>cash:0
+#subject:HIST 122
+>tutor:Roscoe
+>client:N/A
+>comm:Roscoe@email.com
+>date:6-1-17
+>start:926
+>end:1278
+>cash:0
+#subject:SCI 279
+>tutor:Zofia
+>client:N/A
+>comm:Zofia@email.com
+>date:2-24-17
+>start:565
+>end:2311
+>cash:0
+#subject:CHEM 984
+>tutor:Victor
+>client:N/A
+>comm:Victor@email.com
+>date:2-1-17
+>start:534
+>end:1440
+>cash:0
+#subject:CMPE 566
+>tutor:Carlton
+>client:N/A
+>comm:Carlton@email.com
+>date:6-2-17
+>start:843
+>end:1519
+>cash:0
+#subject:CS 456
+>tutor:Margarito
+>client:N/A
+>comm:Margarito@email.com
+>date:12-15-17
+>start:396
+>end:1919
+>cash:0
+#subject:KIN 486
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:11-5-17
+>start:486
+>end:1446
+>cash:0
+#subject:BIO 263
+>tutor:Rochelle
+>client:N/A
+>comm:Rochelle@email.com
+>date:2-20-17
+>start:1080
+>end:1866
+>cash:0
+#subject:HIST 434
+>tutor:Angela
+>client:N/A
+>comm:Angela@email.com
+>date:9-8-17
+>start:1080
+>end:2235
+>cash:0
+#subject:CMPE 167
+>tutor:Marquerite
+>client:N/A
+>comm:Marquerite@email.com
+>date:8-24-17
+>start:872
+>end:1478
+>cash:0
+#subject:SCI 511
+>tutor:Rolanda
+>client:N/A
+>comm:Rolanda@email.com
+>date:12-27-17
+>start:756
+>end:1802
+>cash:0
+#subject:BIO 679
+>tutor:Cicely
+>client:N/A
+>comm:Cicely@email.com
+>date:12-5-17
+>start:546
+>end:1598
+>cash:0
+#subject:CMPE 724
+>tutor:Nila
+>client:N/A
+>comm:Nila@email.com
+>date:1-26-17
+>start:831
+>end:1889
+>cash:0
+#subject:ENGR 464
+>tutor:Avelina
+>client:N/A
+>comm:Avelina@email.com
+>date:5-9-17
+>start:765
+>end:1383
+>cash:0
+#subject:BIO 104
+>tutor:Natosha
+>client:N/A
+>comm:Natosha@email.com
+>date:5-1-17
+>start:495
+>end:2332
+>cash:0
+#subject:CHEM 700
+>tutor:Morris
+>client:N/A
+>comm:Morris@email.com
+>date:7-2-17
+>start:614
+>end:1724
+>cash:0
+#subject:CHEM 44
+>tutor:Gilma
+>client:N/A
+>comm:Gilma@email.com
+>date:5-16-17
+>start:207
+>end:1740
+>cash:0
+#subject:ENGR 336
+>tutor:Anthony
+>client:N/A
+>comm:Anthony@email.com
+>date:6-21-17
+>start:495
+>end:1252
+>cash:0
+#subject:CMPE 882
+>tutor:Agustina
+>client:N/A
+>comm:Agustina@email.com
+>date:3-18-17
+>start:1155
+>end:1822
+>cash:0
+#subject:SCI 739
+>tutor:Abe
+>client:N/A
+>comm:Abe@email.com
+>date:4-9-17
+>start:844
+>end:2397
 >cash:0

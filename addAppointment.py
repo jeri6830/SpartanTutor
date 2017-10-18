@@ -30,4 +30,4 @@ def addtest(repeats):
 
 
 
-addtest(5)
+addtest(100)
