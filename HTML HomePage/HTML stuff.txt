@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title>SJSU Spartan Tutor</title>
+		<link rel="stylesheet" href="Style.css">
+	</head>
+		<style>
+			body {
+			background-color: #FFD700
+			}
+		</style>
+
+	<body>
+		<h1 style ="color:blue;">SpartanTutor</h1>
+		<header>
+			<nav>
+				
+				<u1>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Sign Up As Tutor</a></li>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Home</a></li>
+				
+				</u1>
+			</nav>
+		</header>
+		<pictures>
+		<img src="Spartan.png" alt="SPARTAN TATATATATATUUUUTOOOOR" 
+width="690" height="690">
+		</pictures>
+	</body>
+</html>

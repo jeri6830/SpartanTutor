@@ -1,0 +1,19 @@
+
+
+body {
+	margin: 0;
+}
+
+header {
+	background: blue;
+	color: gold;
+	padding: 8px 0px 6px 700px;
+
+}
+
+h1 {
+	font-size: 400%;
+	padding: 8px 0px 6px 600px;
+
+}
+
