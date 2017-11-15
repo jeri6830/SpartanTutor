@@ -1,0 +1,46 @@
+1:data.txt file
+The data file is organized in the following format:
+#subject:(This is where the subject name and number goes. The # sign in front of the word "subject:" allows code to identify that it is the start of a appointment)
+>tutor:(This is where the tutor name goes)
+>client:(This is where the client name goes, when a appointment is made the name is set to "N/A")
+>comm:(This is where the email of the tutor goes so when a tutor needs to be contacted they can be)
+>date:(This is where the day is placed)
+>start:(This is the time the appointment starts)
+>end:(This is the time the appointment ends)
+>cash:(This is where the amount of cash goes, if there isn't a cost put 0)
+>venmo:(This is where the venmo name goes if the user places it)
+
+
+The appointment numbers are the lines in the data.txt file where there are # signs, representing the start of an appointment.
+
+
+2:addapp(subject,tutor,comm,date,start,end,cost,venmo)
+The addapp function adds an appointment to the data file in the proper format.
+
+The code can have additional lines of data stored per appointment. The only adjustment required is the number of arguements and the appointmentSize variable on top.
+The arguements for the function is explained in the data.txt file section.
+
+
+3:search(query,subject)
+The search function looks for a query(such as comm, date, or subject) and tries to match the subject with whatever is at the end of the ":" in the file.
+The function returns the appointment numbers of anything that has the correct query and subject.
+The function will not return an appointment that has the query but has an incorrect subject.
+
+query=text before ":" disincluding the first character(> or #)
+subject=text after ":"
+
+
+4:getappointment(mynumber)
+This function will return a list of all the items in an appointment in a list based on the mynumber being the appointment number.
+The function will not work if the line number is not proceded by a #.
+
+appointmentSize variable=the number of lines an appointment takes (currently 9). The number is stored inside the addAppointment file.
+mynumber=the appointment number
+
+
+5:claim(appointmentnumber,client):
+This function will claim an appointment.
+
+offset variable=the number of lines down the client is from the #.
+appointmentnumber=the appointment # in the data.txt file. Any line number that isn't preceded by a "#" sign is considered invalid and there is no result.
+client=the client name that is inserted into the appointment number
